@@ -1,0 +1,19 @@
+header {
+	padding: 10px;
+}
+
+header h1 {
+	color: red;
+	font-size: 5em;
+}
+
+p {
+	background-color: D1D7EB;
+	color: green;
+}
+
+#BucketList li {
+	list-style: square;
+	font-size: 20px;
+}	
+
